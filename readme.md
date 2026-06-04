@@ -8,13 +8,6 @@ This repository contains the simulation, visualization, and compatibility-analys
 
 The example considers a 3R planar robot equipped with two vacuum grippers. The robot is tasked with aspirating a sequence of items placed at different locations and different time instants. Some items are static, while others follow bounded time-varying trajectories between switching instants. The purpose of the example is to illustrate how a multi-dimensional deck of outputs can be switched through compatible melds while preserving boundedness guarantees.
 
-<p align="center">
-  <img src="media/meld_3r_robot_animation.gif" width="850"/>
-</p>
-
-<p align="center">
-  <em>3R planar robot with two vacuum grippers tracking a sequence of static and moving item references under scheduled meld switching.</em>
-</p>
 
 ## Overview
 
